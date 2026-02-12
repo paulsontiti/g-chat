@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@g-chat/database": ["packages/database/src"],
+      "@g-chat/types": ["packages/types/src"]
+    }
+  }
+}
